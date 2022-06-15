@@ -14,8 +14,18 @@ Screenshot <br><br>
     
  <details>
         <summary>Function</summary>
-        <strong>Admin</strong>
-Studen Detail:In this section, admin can manage the students (Add/Update/Delete).
+        <strong>Admin</strong></br>
+<strong>Student Detail</strong>: In this section, admin can view the students. </br>
+<strong>Tutor Detail</strong>: In this section, admin can manage the tutor (Add/Update/Delete). </br><br>
+
+<strong>Tutor</strong></br>
+<strong>Student Detail</strong>: In this section, tutor can manage the students (Add/Update/Delete). </br>
+<strong>Quiz Section</strong>: In this section, tutor can manage quizezz (Upload/Update/Delete). </br>
+<strong>Publish Result</strong>: In this section, tutor can view student quizezz answer and mark them. </br>
+<strong>Edit Result</strong>: In this section, tutor can manage edit quizezz result (Update/Delete). </br>
+<strong>Student Query</strong>: In this section, tutor can view student question. </br>
+<strong>Video</strong>: In this section, tutor can manage video lesson (Add/Update/Delete). </br>
+
 </details>
  <details>
 <summary>Install</summary>
