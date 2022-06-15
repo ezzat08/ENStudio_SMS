@@ -3,7 +3,8 @@ EN Tuition Student Management System is a web based system that enable EN Tuitio
 
 <details>
         <summary>Screenshot</summary>
-         ![main](https://user-images.githubusercontent.com/102579596/173715833-868e95e3-1d70-4fab-9721-dc83fbbc5bf2.jpg) <br><br>
+        
+         ![st](https://user-images.githubusercontent.com/102579596/173715833-868e95e3-1d70-4fab-9721-dc83fbbc5bf2.jpg) <br><br>
 
 
 ![st](https://user-images.githubusercontent.com/102579596/173715950-32c2e37b-fd63-47bd-a534-6e5af722bd8b.jpg)
