@@ -14,19 +14,19 @@ EN Tuition Student Management System is a web based system that enable EN Tuitio
  <details>
 <summary>Install</summary>
         
-        <p>1. Download zip file</p><br>
+1. Download zip file
 
-        <p>2. Extract the file and ENStudio_SMS folder</p><br>
+2. Extract the file and ENStudio_SMS folder
 
-<p>3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)</p><br>
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
-<p>4.Open PHPMyAdmin (http://localhost/phpmyadmin)</p><br>
+4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-        <p>5. Create a database with the name  ensms</p><br>
+5. Create a database with the name  ensms
 
-        <p>6. Import ensms.sql file(given inside the zip package in Database File)</p><br>
+6. Import ensms.sql file(given inside the zip package in Database File)
 
-        <p>7. Run the script http://localhost/studentms</p><br>
+7. Run the script http://localhost/studentms
         </details>
 
 
