@@ -26,6 +26,13 @@ Screenshot <br><br>
 <strong>Student Query</strong>: In this section, tutor can view student question. </br>
 <strong>Video</strong>: In this section, tutor can manage video lesson (Add/Update/Delete). </br>
 
+<strong>Student</strong></br>
+<strong>Take Quiz</strong>: In this section, student can answer available quiz. </br>
+<strong>View Result</strong>: In this section, student can view their quiz result (Upload/Update/Delete). </br>
+<strong>Ask Query</strong>: In this section, student can send question to tutor. </br>
+<strong>View Query</strong>: In this section, student can view the answer to their question. </br>
+<strong>Video</strong>: In this section, tutor can view video lesson. </br>
+
 </details>
  <details>
 <summary>Install</summary>
