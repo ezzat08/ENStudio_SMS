@@ -11,6 +11,12 @@ Screenshot <br><br>
 ![st](https://user-images.githubusercontent.com/102579596/173715950-32c2e37b-fd63-47bd-a534-6e5af722bd8b.jpg)
     
     
+    
+ <details>
+        <summary>Function</summary>
+        <strong>Admin</strong>
+Studen Detail:In this section, admin can manage the students (Add/Update/Delete).
+</details>
  <details>
 <summary>Install</summary>
         
