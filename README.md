@@ -49,7 +49,7 @@ Screenshot <br><br>
 
 6. Import ensms.sql file(given inside the zip package in Database File)
 
-7. Run the script http://localhost/studentms
+7. Run the script http://localhost/index.html
         </details>
 
 
